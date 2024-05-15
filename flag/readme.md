@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Solution
 
 This binary has been packed with upx.
@@ -47,3 +48,6 @@ reading the disassembly it shows a string being loaded into memory
 
 This string is the flag
 
+=======
+hold
+>>>>>>> d60836571e3f70b3ef49da59df55998da09a97b5
